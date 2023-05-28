@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151088240465",
+    "project_id": "evento-62228",
+    "storage_bucket": "evento-62228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151088240465:android:f072f4ec759cfaad1a2570",
+        "android_client_info": {
+          "package_name": "com.laila.event_planning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151088240465-5fden001ii4a0iutsn4mjsamin9n43kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMZbzVG0yaBdV5caaJXUpuuoZrnvOIhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151088240465-5fden001ii4a0iutsn4mjsamin9n43kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
